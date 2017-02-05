@@ -33,6 +33,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
     - **Screenshots:** [General](https://i.stole-a-me.me/ab1b25.png)
 - [TheBITLINK/Discord-Adapta](https://github.com/TheBITLINK/Discord-Adapta) - Theme based on the Adapta GTK theme with optional character backgrounds. [Embed](https://cdn.rawgit.com/TheBITLINK/Discord-Adapta/master/discord-adapta.css)
     - **Screenshots:** [General](https://raw.githubusercontent.com/TheBITLINK/Discord-Adapta/master/screenshot.png)
+- [SnazzyPine25/Skype-Theme](https://github.com/SnazzyPine25/BeautifulDiscordThemes#skype) - Theme based on Skype and Skype Preview. [Embed](https://github.com/SnazzyPine25/BeautifulDiscordThemes/blob/master/skype.css)
+    - **Screenshots:** [Dark General](http://i.imgur.com/qDhLz3n.png) [Light General](http://i.imgur.com/QGBiqxp.png)
 
 ## Useful snippets
 
@@ -70,6 +72,10 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
     - **example:** [image](http://i.imgur.com/eJc5Eiu.png)
 - [Vap0r1ze/Discord-Nitro-Badges](https://github.com/Vap0r1ze/Discord-Nitro-Badges/blob/master/nitro.css) - Gives Nitro users cool badges. This only works for Nitro users with gif avatars, sorry. [Embed](https://cdn.rawgit.com/Vap0r1ze/Discord-Nitro-Badges/master/nitro.css)
     - **example:** [image](https://cdn.rawgit.com/Vap0r1ze/Discord-Nitro-Badges/master/nitro.png)
+- [SnazzyPine25/Windows-10-Context-Menu](https://github.com/SnazzyPine25/BeautifulDiscordSnippets#cm/windows10) - Styles Context Menus after Windows 10. [Embed](https://github.com/SnazzyPine25/BeautifulDiscordSnippets/blob/master/ContextMenu/Windows10.css)
+    - **example:** [Dark Preview](http://i.imgur.com/OSijiwR.png) [Light Preview](http://i.imgur.com/K5HNWUG.png)
+- [SnazzyPine25/DarkFaders](https://github.com/SnazzyPine25/BeautifulDiscordSnippets#darkfaders) - Applies animation and tweaks to tooltips. [Embed](https://github.com/SnazzyPine25/BeautifulDiscordSnippets/blob/master/Tooltips/DarkFaders.css)
+    - **example:** [Preview](http://i.imgur.com/AaUWFVu.png)
 
 ## Template
 
